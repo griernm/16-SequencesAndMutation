@@ -15,7 +15,7 @@ Authors: David Mutchler, Amanda Stouder, Chandan Rupakheti, Katie Dion,
 
 
 def main():
-    #run_test_RETURN_replace_negatives_by_zeros()
+    run_test_RETURN_replace_negatives_by_zeros()
     run_test_MUTATE_replace_negatives_by_zeros()
 
 
